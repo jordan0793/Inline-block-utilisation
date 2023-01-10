@@ -1,0 +1,28 @@
+nav {
+
+    
+    width: 150px;
+    border: 1px solid black;
+    position: fixed;
+    right: 0px;
+    bottom: 0px;
+    z-index: 1;
+}
+
+section {
+
+    display: inline-block;
+    border: 1px solid blue;
+    vertical-align: top;
+
+}
+
+strong
+{
+   background-color: red;
+   color: yellow;
+   
+   position: relative;
+   left: 55px;
+   top: 10px;
+}
